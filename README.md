@@ -1,5 +1,5 @@
 # Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models
-Official PyTorch implementaton of paper "[Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models](none)".  
+Official PyTorch implementaton of paper "[Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models](https://arxiv.org/abs/2412.06775)".  
 You can visit our project website [here](https://yilunlee.github.io/VCD_Analysis/).
 
 ## Introduction
@@ -48,6 +48,14 @@ This code is based on [VCD](https://github.com/DAMO-NLP-SG/VCD).
 
 ## Citation
 If you find this work useful for your research, please cite:
+```Bibtex
+@article{lee2024delvevisualcontrastivedecoding,
+  title={Delve into Visual Contrastive Decoding for Hallucination Mitigation of Large Vision-Language Models},
+  author={Yi-Lun Lee and Yi-Hsuan Tsai and Wei-Chen Chiu},
+  journal={arXiv preprint arXiv:2412.06775},
+  year={2024}
+}
+```
 <!-- ```Bibtex
 @inproceedings{lee2021bmvc,
  title = {Learning to Hide Residual for Boosting Image Compression},
